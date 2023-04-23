@@ -4,13 +4,13 @@
 
 ### Node
 
-* For Linux:
+* For Linux/Debian:
 ```
 curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-* For Mac:
+* For Mac-OS:
 ```
 brew install node
 ```
@@ -49,10 +49,7 @@ Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
 ## Overview
 
 * Implemented user registration with valid email error handeling.
-
-* Implemented the hotel booking feature with the folloing cases handeling:
-   * Not allowing the overlapping booking for a given user.
-   * Not allowing the booking when there are insufficient rooms in the hotel.
+* Implemented the hotel booking feature.
 * Implemented the map which shows the location of the hotel on the map. 
 * Implemented popup on the map which shows the vacancy of hotel on hovering above it.
 
@@ -61,7 +58,7 @@ Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
 
 
 
-* [Github](https://github.com/Samarth-047/Hotel_management)
+* [Github](https://github.com/MGGR8/InnSight.git)
 
 
 
